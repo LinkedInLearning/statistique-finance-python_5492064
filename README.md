@@ -11,6 +11,7 @@ Ce cours est intégré à GitHub Codespaces, un environnement de développement 
 ### Formateur
 
 **Natacha Njongwa Yepnga** 
+Data Scientist • Quantitative Analyst • Fondatrice de LDA Advisory
 
 Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
