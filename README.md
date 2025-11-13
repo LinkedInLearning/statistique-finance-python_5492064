@@ -19,7 +19,11 @@ Il ne comporte aucune branche spécifique : tout le contenu se trouve dans la br
       git clone https://github.com/LinkedInLearning/GenAI-en-finance_5491062.git
 
 2. Installez les dépendances nécessaires :
-      pip install -r requirements.txt
+
+pip install numpy pandas matplotlib seaborn scipy yfinance statsmodels
+
+
+
 
 
 
@@ -32,7 +36,7 @@ Il ne comporte aucune branche spécifique : tout le contenu se trouve dans la br
 
 2. Clonez ce dossier repository sur votre machine locale (Mac, CMD Windows ou outil GUI tel que SourceTree).
 
-3. Suivez les instructions spécifiques dans les fichiers de code pour exécuter les exemples.
+3. Suivez les instructions spécifiques dans les fichiers de codes pour exécuter les exemples.
 
 
 ### Formateur
