@@ -8,13 +8,12 @@ Destinée aux analystes financiers, data analysts, data scientists ou toute pers
 
 Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utiliser Codespaces sur GitHub" pour savoir comment démarrer
 
-
 ## Instructions
 
 Ce dossier repository contient l’ensemble des fichiers utilisés dans la formation.
 Il ne comporte aucune branche spécifique : tout le contenu se trouve dans la branche principale (main).
 
-1. Téléchargez le dépôt via le bouton "Code > Download ZIP",
+1. Téléchargez le dépôt via le bouton « Code > Download ZIP »,
    ou clonez-le avec la commande :
       git clone https://github.com/LinkedInLearning/statistique-finance-python_5492064.git
 
@@ -22,22 +21,14 @@ Il ne comporte aucune branche spécifique : tout le contenu se trouve dans la br
 
 pip install numpy pandas matplotlib seaborn scipy yfinance statsmodels
 
-
-
-
-
-
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de :
    - Python 3.10 ou version supérieure
-   
-    
 
-2. Clonez ce dossier repository sur votre machine locale (Mac, CMD Windows ou outil GUI tel que SourceTree).
+2. Clonez ce dossier repository sur votre machine locale (Mac, CMD Windows ou outil GUI tel que SourceTree)
 
-3. Suivez les instructions spécifiques dans les fichiers de codes pour exécuter les exemples.
-
+3. Suivez les instructions spécifiques dans les fichiers de codes pour exécuter les exemples
 
 ### Formateur
 
