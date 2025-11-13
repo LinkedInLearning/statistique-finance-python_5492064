@@ -16,7 +16,7 @@ Il ne comporte aucune branche spécifique : tout le contenu se trouve dans la br
 
 1. Téléchargez le dépôt via le bouton "Code > Download ZIP",
    ou clonez-le avec la commande :
-      git clone https://github.com/LinkedInLearning/GenAI-en-finance_5491062.git](https://github.com/LinkedInLearning/statistique-finance-python_5492064.git
+      git clone https://github.com/LinkedInLearning/statistique-finance-python_5492064.git
 
 2. Installez les dépendances nécessaires :
 
